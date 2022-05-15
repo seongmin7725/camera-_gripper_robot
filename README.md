@@ -16,8 +16,11 @@
 6. 이후 로봇이 콜라켄을 빨간색 위치까지 옮기는 방법은 플라스틱병을 허스키렌즈의 object classification과 color recognition을 활용해 정해진 위치로 옮기는 방법과 동일하다.
 
 # [3. 맵]
+![map](https://user-images.githubusercontent.com/102838128/168476737-5ebc5b26-bed1-41c3-9daa-7f75acc07be9.jpg)
 
 # [4. 동영상]
+https://youtu.be/RutjSwYbgHE
+
 # [5. 문제점]
 ultrasonic sensor을 활용해서 콜라켄을 잡기 위해서 회전시 주변에 다른 물체가 있으면 그 물체 방향으로 직진한다.
 
