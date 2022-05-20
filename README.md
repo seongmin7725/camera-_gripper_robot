@@ -3,11 +3,15 @@
 명지대학교 응용로봇공학 중간고사 프로젝트로 플라스틱병과 콜라 캔을 각각 파란색 빨간색 구역으로 옮기는 프로젝트를 진행하였다.
 
 # [1. 사용한 부품]
-1. tetrix 로봇
+1. tetrix robot kit (ultrasonic sensor, tetrix prizm robotics controller...)
 2. HUSKYLENS
 
 
-# [2. 알고리즘]
+
+# [2. 맵]
+![map](https://user-images.githubusercontent.com/102838128/168476737-5ebc5b26-bed1-41c3-9daa-7f75acc07be9.jpg)
+
+# [3. 알고리즘]
 
 **<전체 알고리즘>**
 1. 허스키렌즈의 object tracking 기능을 이용해 로봇이 플라스틱병으로 이동하게 한다. 이때 로봇과 플라스틱병 사이의 거리는 ultrasonic sensor를 활용하여 측정하였다.
@@ -29,8 +33,6 @@
 
 
 
-# [3. 맵]
-![map](https://user-images.githubusercontent.com/102838128/168476737-5ebc5b26-bed1-41c3-9daa-7f75acc07be9.jpg)
 
 # [4. 동영상]
 https://youtu.be/RutjSwYbgHE
